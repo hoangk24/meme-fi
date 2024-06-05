@@ -1,0 +1,17 @@
+{
+  "name": "memefi",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "meme.js",
+  "scripts": {
+    "start": "node meme.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "https-proxy-agent": "^7.0.4",
+    "random-mobile-ua": "^1.0.9"
+  }
+}
